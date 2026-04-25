@@ -9,7 +9,7 @@
 [Bug提议](https://github.com/Orange-China0216/Cad-system/issues/1)
 </div>
 
-___新的一个自创系统___
+___新的一个自创系统，___
 
 ___可以用来做一些简便计算等，欢迎来提议!___
 
