@@ -23,8 +23,9 @@ ___可以用来做一些简便计算等，欢迎来提议!___
 | macOS / Linux / 其他操作系统 | ❌ 不支持 |
 
 ### ❤️ 贡献者
+<img width="40" height="40" alt="wemeet image_20260425172900482" src="https://github.com/user-attachments/assets/4a33e514-8963-41d7-b2ca-a9e2f3595de5" />
+<img width="40" height="40" alt="251582679" src="https://github.com/user-attachments/assets/8de0dc46-78ae-474e-b932-2cebe6ba940a" />
 
-[查看捐搞人](https://github.com/Orange-China0216/Cad-system/graphs/contributors)
 
 ## 🔒 许可证
 
