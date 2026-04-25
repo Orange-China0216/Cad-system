@@ -13,7 +13,7 @@ ___新的一个自创系统___
 
 ___可以用来做一些简便计算等，欢迎来提议!___
 
-邮箱 ：15142500216@163.com
+邮箱 ：***15142500216@163.com***
 ## 💻 支持平台
 
 | 操作系统 | 支持情况 |
@@ -25,3 +25,7 @@ ___可以用来做一些简便计算等，欢迎来提议!___
 ### ❤️ 贡献者
 
 [查看捐搞人](https://github.com/Orange-China0216/Cad-system/graphs/contributors)
+
+## 🔒 许可证
+
+- `Cad system` 使用 [自定义许可证](https://github.com/Orange-China0216/Cad-system/blob/main/LICENSE)
