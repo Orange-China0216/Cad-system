@@ -1,3 +1,5 @@
+[中文](https://github.com/Orange-China0216/Cad-system/blob/main/README.md) |  **English**
+
 <div align="center">
 
 <img width="211" height="142" alt="无标题" src="https://github.com/user-attachments/assets/eb5e26bd-149a-40a8-bd57-65c0038bb835" />
