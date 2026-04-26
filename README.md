@@ -1,4 +1,4 @@
-[English]()
+[English](https://github.com/Orange-China0216/Cad-system/blob/main/EN-README.md)
 
 
 <div align="center">
