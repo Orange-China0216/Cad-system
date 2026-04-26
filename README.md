@@ -2,7 +2,7 @@
 
 <img width="211" height="142" alt="无标题" src="https://github.com/user-attachments/assets/eb5e26bd-149a-40a8-bd57-65c0038bb835" />
 
-# Cad system
+# Cad 系统
 
 [Cad下载](https://github.com/Orange-China0216/Cad-system/releases/latest)|
 [版本更新表](https://github.com/Orange-China0216/Cad-system/releases<img)|
