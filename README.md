@@ -1,4 +1,4 @@
-[English](https://github.com/Orange-China0216/Cad-system/blob/main/EN-README.md)
+[English](https://github.com/Orange-China0216/Cad-system/blob/main/EN-README.md) | 中文
 
 
 <div align="center">
